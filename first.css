@@ -7,3 +7,8 @@ body{
     background-color: cornsilk;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+/*this is an example of using class selectors */
+.classExample{
+    color: black;
+}

@@ -1,8 +1,9 @@
 p {
-    color: green
+    color: green;
+    font-size: 18px;
 }
 
 body{
-    background-color: aqua;
+    background-color: cornsilk;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }

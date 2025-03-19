@@ -11,4 +11,5 @@ body{
 /*this is an example of using class selectors */
 .classExample{
     color: black;
+    background-color: aqua;
 }

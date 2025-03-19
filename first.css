@@ -13,3 +13,13 @@ body{
     color: black;
     background-color: aqua;
 }
+
+/*ID selector - more specific than a class selector
+*/
+#main-title{
+    font-size: 28px;
+    color: chartreuse;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}

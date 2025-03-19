@@ -47,3 +47,6 @@ h1 {
     font-style: italic;
 }
 
+.menuCentering {
+    align-items: center;
+}
